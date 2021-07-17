@@ -1,4 +1,4 @@
-Hello, I'm Gabe. So good to see you. :cherry_blossom:
+Hello, I'm Gabe. :cherry_blossom:
 
 I'm currently learning web development through The Odin Project. :pencil2:
 
