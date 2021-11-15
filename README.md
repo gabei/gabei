@@ -1,6 +1,19 @@
-Hello, I'm Gabe.
+# Hello, I'm Gabe.
 
-I'm currently learning web development through The Odin Project. :pencil2:
+I'm currently learning web development through The Odin Project. :books:
+
+#### learningGoals.JSON
+
+```javascript
+{
+  "javascript" : "React on top, Express in the back.",
+  "databases" : "MongoDB",
+  "CSS" : "Sass & Bulma",
+  "VC" : "Git and GitHub",
+  "Testing" : "Jest"
+  "Foundations" : "Whatever you think will help me be better."
+}
+```
 
 
 <!---
