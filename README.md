@@ -6,12 +6,12 @@ I'm currently learning web development through The Odin Project. :books:
 
 ```javascript
 {
-  "javascript" : "React on top, Express in the back.",
+  "javascript / typescript" : "React && Express",
   "databases" : "MongoDB",
-  "CSS" : "Sass & Bulma",
-  "VC" : "Git and GitHub",
+  "CSS" : "Sass && Bulma",
+  "VC" : "Git && GitHub",
   "Testing" : "Jest"
-  "Foundations" : "Whatever you think will help me be better."
+  "Foundations" : "Whatever you think will help."
 }
 ```
 
