@@ -1,19 +1,8 @@
 # Hello, I'm Gabe.
 
-I'm currently learning web development through The Odin Project. :books:
+I'm currently learning Python. 
 
-#### learningGoals.JSON
 
-```javascript
-{
-  "javascript / typescript" : "React && Express",
-  "databases" : "MongoDB",
-  "CSS" : "Sass && Bulma",
-  "VC" : "Git && GitHub",
-  "Testing" : "Jest"
-  "Foundations" : "Whatever you think will help."
-}
-```
 
 
 <!---
