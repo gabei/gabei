@@ -1,6 +1,6 @@
 # Hello, I'm Gabe.
 
-I'm currently learning Python. :snake:
+I'm currently working my way through freeCodeCamp. 
 
 
 
