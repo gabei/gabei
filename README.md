@@ -1,5 +1,5 @@
 # Hello, I'm Gabe. Nice to meet you! 
-I'm a library worker who is interested in using software to make our lives in public service a little easier. I'm also interested in digital inclusion and accessibilty.
+I'm a library worker who is interested in using tech to make our lives in public service a little easier. I'm also interested in digital inclusion and accessibilty.
 
 ## Tech Use/Interests
 ### OS
